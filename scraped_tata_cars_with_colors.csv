@@ -1,0 +1,341 @@
+Car Make,Car Model,Price,Fuel Type,Transmission Type,Available Color Variants Count,Available Colors (Detailed),Location Details
+Tata,Punch Pure,₹6.41 L,Petrol,Manual,Available in 2 colors,Orcus White (#f1f6f9); Daytona Grey (#7c858c),N/A
+Tata,Punch Pure(O),₹7.49 L,Petrol,Manual,Available in 2 colors,Daytona Grey (#7c858c); Orcus White (#f1f6f9),N/A
+Tata,Punch Adventure,₹7.87 L,Petrol,Manual,Available in 4 colors,Orcus White (#f1f6f9); Daytona Grey (#7c858c); Atomic Orange (#df5d20); Tropical Mist (#6b8ea2),N/A
+Tata,Punch Pure CNG,₹7.92 L,CNG,Manual,Available in 2 colors,Orcus White (#f1f6f9); Daytona Grey (#7c858c),N/A
+Tata,Punch Adventure Plus,₹8.26 L,Petrol,Manual,Available in 4 colors,Daytona Grey (#38393b); Calypso Red (#c32228); Tropical Mist (#7491a9); Orcus White (#fefefe),N/A
+Tata,Punch Adventure CNG,₹8.82 L,CNG,Manual,Available in 4 colors,Orcus White (#f1f6f9); Daytona Grey (#7c858c); Atomic Orange (#df5d20); Tropical Mist (#6b8ea2),N/A
+Tata,Punch Adventure Plus AMT,₹8.92 L,Petrol,Automatic,Available in 4 colors,Orcus White (#fefefe); Calypso Red (#c32228); Daytona Grey (#38393b); Tropical Mist (#7491a9),N/A
+Tata,Punch Adventure Plus S,₹9.03 L,Petrol,Manual,Available in 4 colors,Orcus White (#f1f6f9); Calypso Red (#ac1013); Tropical Mist (#6b8ea2); Daytona Grey (#7c858c),N/A
+Tata,Punch Adventure Plus CNG,₹9.21 L,CNG,Manual,Available in 4 colors,Orcus White (#fefefe); Daytona Grey (#38393b); Calypso Red (#c32228); Tropical Mist (#7491a9),N/A
+Tata,Punch Accomplished Plus,₹9.25 L,Petrol,Manual,Available in 5 colors,Daytona Grey (#7c858c); Calypso Red (#ac1013); Meteor Bronze (#937a52); Tropical Mist (#6b8ea2); Orcus White (#f1f6f9),N/A
+Tata,Punch Adventure S CNG,₹9.43 L,CNG,Manual,Available in 4 colors,Orcus White (#f1f6f9); Daytona Grey (#7c858c); Calypso Red (#ac1013); Tropical Mist (#6b8ea2),N/A
+Tata,Punch Adventure Plus S AMT,₹9.69 L,Petrol,Automatic,Available in 4 colors,Daytona Grey (#7c858c); Calypso Red (#ac1013); Tropical Mist (#6b8ea2); Orcus White (#f1f6f9),N/A
+Tata,Punch Adventure Plus S CNG,₹9.98 L,CNG,Manual,Available in 4 colors,Daytona Grey (#7c858c); Orcus White (#f1f6f9); Calypso Red (#ac1013); Tropical Mist (#6b8ea2),N/A
+Tata,Punch Accomplished Plus Camo AMT,₹10.08 L,Petrol,Automatic,Available in 1 colors,"Seaweed Green With White Roof (#373e32, #f8ffff)",N/A
+Tata,Punch Accomplished Plus CNG,₹10.36 L,CNG,Manual,Available in 5 colors,Orcus White (#f1f6f9); Calypso Red (#ac1013); Meteor Bronze (#937a52); Daytona Grey (#7c858c); Tropical Mist (#6b8ea2),N/A
+Tata,Punch Accomplished Plus S CNG,₹10.89 L,CNG,Manual,Available in 5 colors,Orcus White (#f1f6f9); Calypso Red (#ac1013); Meteor Bronze (#937a52); Daytona Grey (#7c858c); Tropical Mist (#6b8ea2),N/A
+Tata,Punch Adventure S,₹8.48 L,Petrol,Manual,Available in 4 colors,Calypso Red (#ac1013); Tropical Mist (#6b8ea2); Daytona Grey (#7c858c); Orcus White (#f1f6f9),N/A
+Tata,Punch Adventure AMT,₹8.54 L,Petrol,Automatic,Available in 4 colors,Orcus White (#f1f6f9); Daytona Grey (#7c858c); Atomic Orange (#df5d20); Tropical Mist (#6b8ea2),N/A
+Tata,Punch Adventure S AMT,₹9.14 L,Petrol,Automatic,Available in 4 colors,Calypso Red (#ac1013); Tropical Mist (#6b8ea2); Daytona Grey (#7c858c); Orcus White (#f1f6f9),N/A
+Tata,Punch Accomplished Plus Camo,₹9.42 L,Petrol,Manual,Available in 1 colors,"Seaweed Green With White Roof (#373e32, #f8ffff)",N/A
+Tata,Punch Accomplished Plus S,₹9.78 L,Petrol,Manual,Available in 5 colors,Calypso Red (#ac1013); Meteor Bronze (#937a52); Daytona Grey (#7c858c); Tropical Mist (#6b8ea2); Orcus White (#f1f6f9),N/A
+Tata,Punch Accomplished Plus AMT,₹9.91 L,Petrol,Automatic,Available in 5 colors,Calypso Red (#ac1013); Meteor Bronze (#937a52); Daytona Grey (#7c858c); Tropical Mist (#6b8ea2); Orcus White (#f1f6f9),N/A
+Tata,Punch Accomplished Plus S Camo,₹9.97 L,Petrol,Manual,Available in 1 colors,"Seaweed Green With White Roof (#373e32, #f8ffff)",N/A
+Tata,Punch Creative Plus,₹10.02 L,Petrol,Manual,Available in 5 colors,"Daytona Grey With Black Roof (#7c858c, #000000); Orcus White With Black Roof (#f1f6f9, #000000); Calypso Red With White Roof (#ac1013, #ffffff); Tropical Mist with Black Roof (#6b8ea2, #000000); Tornado Blue with White Roof (#0081c2, #ffffff)",N/A
+Tata,Punch Creative Plus Camo,₹10.19 L,Petrol,Manual,Available in 1 colors,"Seaweed Green With White Roof (#373e32, #f8ffff)",N/A
+Tata,Punch Accomplished Plus S AMT,₹10.44 L,Petrol,Automatic,Available in 5 colors,Calypso Red (#ac1013); Meteor Bronze (#937a52); Daytona Grey (#7c858c); Tropical Mist (#6b8ea2); Orcus White (#f1f6f9),N/A
+Tata,Punch Creative Plus S,₹10.52 L,Petrol,Manual,Available in 5 colors,"Daytona Grey With Black Roof (#7c858c, #000000); Orcus White With Black Roof (#f1f6f9, #000000); Calypso Red With White Roof (#ac1013, #ffffff); Tropical Mist with Black Roof (#6b8ea2, #000000); Tornado Blue with White Roof (#0081c2, #ffffff)",N/A
+Tata,Punch Accomplished Plus Camo CNG,₹10.53 L,CNG,Manual,Available in 1 colors,"Seaweed Green With White Roof (#373e32, #f8ffff)",N/A
+Tata,Punch Accomplished Plus S Camo AMT,₹10.63 L,Petrol,Automatic,Available in 1 colors,"Seaweed Green With White Roof (#373e32, #f8ffff)",N/A
+Tata,Punch Creative Plus AMT,₹10.68 L,Petrol,Automatic,Available in 5 colors,"Daytona Grey With Black Roof (#7c858c, #000000); Orcus White With Black Roof (#f1f6f9, #000000); Calypso Red With White Roof (#ac1013, #ffffff); Tropical Mist with Black Roof (#6b8ea2, #000000); Tornado Blue with White Roof (#0081c2, #ffffff)",N/A
+Tata,Punch Creative Plus S Camo,₹10.68 L,Petrol,Manual,Available in 1 colors,"Seaweed Green With White Roof (#373e32, #f8ffff)",N/A
+Tata,Punch Creative Plus Camo AMT,₹10.85 L,Petrol,Automatic,Available in 1 colors,"Seaweed Green With White Roof (#373e32, #f8ffff)",N/A
+Tata,Punch Accomplished Plus S Camo CNG,₹11.49 L,CNG,Manual,Available in 1 colors,"Seaweed Green With White Roof (#373e32, #f8ffff)",N/A
+Tata,Punch Creative Plus S AMT,₹11.59 L,Petrol,Automatic,Available in 5 colors,"Tornado Blue with White Roof (#0081c2, #ffffff); Daytona Grey With Black Roof (#7c858c, #000000); Orcus White With Black Roof (#f1f6f9, #000000); Calypso Red With White Roof (#ac1013, #ffffff); Tropical Mist with Black Roof (#6b8ea2, #000000)",N/A
+Tata,Punch Creative Plus S Camo AMT,₹11.76 L,Petrol,Automatic,Available in 1 colors,"Seaweed Green With White Roof (#373e32, #f8ffff)",N/A
+Tata,Nexon 1.2 Smart Plus,₹9.87 L,Petrol,Manual,Available in 4 colors,Pristine White (#ebebeb); Royal Blue (#35407a); Grassland Beige (#7d7c5f); Daytona Grey (#40454b),N/A
+Tata,Nexon 1.2 Smart CNG,₹9.98 L,CNG,Manual,Available in 2 colors,Pristine White (#ebebeb); Daytona Grey (#71757b),N/A
+Tata,Nexon 1.2 Smart Plus S,₹10.20 L,Petrol,Manual,Available in 4 colors,Daytona Grey (#40454b); Royal Blue (#35407a); Pristine White (#ebebeb); Grassland Beige (#7d7c5f),N/A
+Tata,Nexon 1.2 Smart Plus AMT,₹10.63 L,Petrol,Automatic,Available in 4 colors,Pristine White (#e6e8eb); Daytona Grey (#2d353c); Royal Blue (#35407a); Grassland Beige (#7d7c5f),N/A
+Tata,Nexon 1.2 Pure Plus,₹10.74 L,Petrol,Manual,Available in 5 colors,Pristine White (#ebebeb); Royal Blue (#1e4079); Pure Grey (#bcbec0); Grassland Beige (#7d7c5f); Daytona Grey (#71757b),N/A
+Tata,Nexon 1.2 Smart Plus CNG,₹11.07 L,CNG,Manual,Available in 4 colors,Pristine White (#ebebeb); Daytona Grey (#38393b); Royal Blue (#35407a); Grassland Beige (#7d7c5f),N/A
+Tata,Nexon 1.2 Pure Plus S,₹11.07 L,Petrol,Manual,Available in 5 colors,Daytona Grey (#71757b); Royal Blue (#1e4079); Pure Grey (#bcbec0); Grassland Beige (#7d7c5f); Pristine White (#ebebeb),N/A
+Tata,Nexon 1.2 Smart Plus S CNG,₹11.81 L,CNG,Manual,Available in 4 colors,Pristine White (#ebebeb); Daytona Grey (#38393b); Royal Blue (#35407a); Grassland Beige (#7d7c5f),N/A
+Tata,Nexon 1.2 Pure Plus S AMT,₹12.27 L,Petrol,Automatic,Available in 5 colors,Daytona Grey (#71757b); Pristine White (#ebebeb); Royal Blue (#1e4079); Pure Grey (#bcbec0); Grassland Beige (#7d7c5f),N/A
+Tata,Nexon 1.2 Pure Plus CNG,₹12.27 L,CNG,Manual,Available in 5 colors,Pure Grey (#bcbec0); Daytona Grey (#71757b); Pristine White (#ebebeb); Royal Blue (#1e4079); Grassland Beige (#7d7c5f),N/A
+Tata,Nexon 1.2 Pure Plus S CNG,₹12.61 L,CNG,Manual,Available in 5 colors,Daytona Grey (#71757b); Pristine White (#ebebeb); Royal Blue (#1e4079); Pure Grey (#bcbec0); Grassland Beige (#7d7c5f),N/A
+Tata,Nexon 1.2 Creative CNG,₹13.74 L,CNG,Manual,Available in 6 colors,Daytona Grey (#38393b); Royal Blue (#35407a); Pure Grey (#b0b0b0); Pristine White (#ebebeb); Ocean Blue (#3d7479); Grassland Beige (#7d7c5f),N/A
+Tata,Nexon 1.2 Creative Plus S CNG,₹14.08 L,CNG,Manual,Available in 6 colors,Pristine White (#ebebeb); Ocean Blue (#24c0b0); Royal Blue (#1e4079); Pure Grey (#bcbec0); Grassland Beige (#7d7c5f); Daytona Grey (#71757b),N/A
+Tata,Nexon 1.2 Creative Plus PS CNG,₹15.22 L,CNG,Manual,Available in 6 colors,"Pristine White with Black Roof (#ecedef, #000000); Ocean Blue With White Roof (#3d7479, #ebebeb); Royal Blue With Black Roof (#35407a, #231f20); Pure Grey With Black Roof (#b0b0b0, #231f20); Grassland Beige with Black Roof (#7d7c5f, #231f20); Daytona Grey with Black Roof (#38393b, #000000)",N/A
+Tata,Nexon 1.5 Smart Plus,₹11.25 L,Diesel,Manual,Available in 4 colors,Royal Blue (#35407a); Grassland Beige (#7d7c5f); Daytona Grey (#38393b); Pristine White (#ebebeb),N/A
+Tata,Nexon 1.2 Pure Plus AMT,₹11.93 L,Petrol,Automatic,Available in 5 colors,Royal Blue (#1e4079); Pure Grey (#bcbec0); Grassland Beige (#7d7c5f); Daytona Grey (#71757b); Pristine White (#ebebeb),N/A
+Tata,Nexon 1.5 Smart Plus S,₹12.07 L,Diesel,Manual,Available in 4 colors,Royal Blue (#35407a); Grassland Beige (#7d7c5f); Daytona Grey (#38393b); Pristine White (#ebebeb),N/A
+Tata,Nexon 1.2 Creative,₹12.61 L,Petrol,Manual,Available in 6 colors,Royal Blue (#35407a); Pure Grey (#b0b0b0); Grassland Beige (#7d7c5f); Pristine White (#ebebeb); Ocean Blue (#3d7479); Daytona Grey (#40454b),N/A
+Tata,Nexon 1.5 Pure Plus,₹12.88 L,Diesel,Manual,Available in 5 colors,Royal Blue (#1e4079); Pure Grey (#bcbec0); Grassland Beige (#7d7c5f); Daytona Grey (#71757b); Pristine White (#ebebeb),N/A
+Tata,Nexon 1.2 Creative Plus S,₹12.95 L,Petrol,Manual,Available in 6 colors,Pure Grey (#b0b0b0); Royal Blue (#35407a); Pristine White (#ebebeb); Ocean Blue (#3d7479); Grassland Beige (#7d7c5f); Daytona Grey (#40454b),N/A
+Tata,Nexon 1.5 Pure Plus S,₹13.23 L,Diesel,Manual,Available in 5 colors,Royal Blue (#1e4079); Pure Grey (#bcbec0); Grassland Beige (#7d7c5f); Daytona Grey (#71757b); Pristine White (#ebebeb),N/A
+Tata,Nexon 1.2 Creative AMT,₹13.40 L,Petrol,Automatic,Available in 6 colors,Royal Blue (#35407a); Pure Grey (#b0b0b0); Pristine White (#ebebeb); Ocean Blue (#3d7479); Grassland Beige (#7d7c5f); Daytona Grey (#40454b),N/A
+Tata,Nexon 1.2 Creative Plus S Dark Edition,₹13.40 L,Petrol,Manual,Available in 1 colors,Carbon Black (#191e24),N/A
+Tata,Nexon 1.5 Pure Plus AMT,₹13.70 L,Diesel,Automatic,Available in 5 colors,Royal Blue (#1e4079); Pure Grey (#bcbec0); Grassland Beige (#7d7c5f); Daytona Grey (#71757b); Pristine White (#ebebeb),N/A
+Tata,Nexon 1.2 Creative Plus S AMT,₹13.74 L,Petrol,Automatic,Available in 6 colors,Royal Blue (#35407a); Pure Grey (#b0b0b0); Pristine White (#ebebeb); Ocean Blue (#3d7479); Grassland Beige (#7d7c5f); Daytona Grey (#40454b),N/A
+Tata,Nexon 1.2 Creative DCA,₹13.97 L,Petrol,Automatic,Available in 6 colors,Pure Grey (#b0b0b0); Royal Blue (#35407a); Pristine White (#ebebeb); Ocean Blue (#3d7479); Grassland Beige (#7d7c5f); Daytona Grey (#40454b),N/A
+Tata,Nexon 1.2 Creative Plus PS,₹14.08 L,Petrol,Manual,Available in 6 colors,"Ocean Blue with White Roof (#3d7479, #ebebeb); Pristine White with Black Roof (#ecedef, #000000); Royal Blue with Black Roof (#1e4079, #231f20); Pure Grey with Black Roof (#bcbec0, #231f20); Grassland Beige with Black Roof (#7d7c5f, #231f20); Daytona Grey with Black Roof (#71757b, #231f20)",N/A
+Tata,Nexon 1.5 Creative,₹14.51 L,Diesel,Manual,Available in 6 colors,Pure Grey (#b0b0b0); Royal Blue (#35407a); Pristine White (#ebebeb); Ocean Blue (#3d7479); Grassland Beige (#7d7c5f); Daytona Grey (#40454b),N/A
+Tata,Nexon 1.2 Creative Plus PS Dark Edition,₹14.54 L,Petrol,Manual,Available in 1 colors,Carbon Black (#231f20),N/A
+Tata,Nexon 1.2 Creative Plus S Dark Edition CNG,₹14.54 L,CNG,Manual,Available in 1 colors,Atlas Black (#191e24),N/A
+Tata,Nexon 1.5 Creative Plus S,₹14.86 L,Diesel,Manual,Available in 6 colors,Pure Grey (#b0b0b0); Royal Blue (#35407a); Ocean Blue (#3d7479); Pristine White (#ebebeb); Grassland Beige (#7d7c5f); Daytona Grey (#40454b),N/A
+Tata,Nexon 1.5 Creative AMT,₹15.32 L,Diesel,Automatic,Available in 6 colors,Royal Blue (#35407a); Pure Grey (#b0b0b0); Pristine White (#ebebeb); Ocean Blue (#3d7479); Grassland Beige (#7d7c5f); Daytona Grey (#40454b),N/A
+Tata,Nexon 1.5 Creative Plus S Dark Edition,₹15.32 L,Diesel,Manual,Available in 1 colors,Atlas Black (#191e24),N/A
+Tata,Nexon 1.2 Creative Plus PS DCA,₹15.45 L,Petrol,Automatic,Available in 6 colors,"Pristine White with Black Roof (#ecedef, #000000); Ocean Blue with White Roof (#3d7479, #ebebeb); Royal Blue with Black Roof (#1e4079, #231f20); Pure Grey with Black Roof (#bcbec0, #231f20); Grassland Beige with Black Roof (#7d7c5f, #231f20); Daytona Grey with Black Roof (#71757b, #231f20)",N/A
+Tata,Nexon 1.5 Creative Plus S AMT,₹15.67 L,Diesel,Automatic,Available in 6 colors,Royal Blue (#35407a); Pure Grey (#b0b0b0); Ocean Blue (#3d7479); Pristine White (#ebebeb); Grassland Beige (#7d7c5f); Daytona Grey (#40454b),N/A
+Tata,Nexon 1.2 Creative Plus PS Dark Edition CNG,₹15.67 L,CNG,Manual,Available in 1 colors,Carbon Black (#231f20),N/A
+Tata,Nexon 1.2 Creative Plus PS DCA Dark Edition,₹15.90 L,Petrol,Automatic,Available in 1 colors,Carbon Black (#231f20),N/A
+Tata,Nexon 1.5 Creative Plus PS,₹16.02 L,Diesel,Manual,Available in 6 colors,"Pristine White with Black Roof (#ecedef, #000000); Ocean Blue with White Roof (#3d7479, #ebebeb); Royal Blue with Black Roof (#1e4079, #231f20); Pure Grey with Black Roof (#bcbec0, #231f20); Grassland Beige with Black Roof (#7d7c5f, #231f20); Daytona Grey with Black Roof (#71757b, #231f20)",N/A
+Tata,Nexon 1.5 Creative Plus PS Dark Edition,₹16.48 L,Diesel,Manual,Available in 1 colors,Carbon Black (#231f20),N/A
+Tata,Nexon 1.2 Fearless Plus PS Dark Edition CNG,₹16.58 L,CNG,Manual,Available in 1 colors,Carbon Black (#231f20),N/A
+Tata,Nexon 1.5 Creative Plus PS AMT,₹16.83 L,Diesel,Automatic,Available in 6 colors,"Pristine White with Black Roof (#ecedef, #000000); Ocean Blue with White Roof (#3d7479, #ebebeb); Royal Blue with Black Roof (#1e4079, #231f20); Pure Grey with Black Roof (#bcbec0, #231f20); Grassland Beige with Black Roof (#7d7c5f, #231f20); Daytona Grey with Black Roof (#71757b, #231f20)",N/A
+Tata,Nexon 1.5 Creative Plus PS AMT Dark Edition,₹17.29 L,Diesel,Automatic,Available in 1 colors,Carbon Black (#231f20),N/A
+Tata,Nexon 1.2 Fearless Plus PS,₹15.22 L,Petrol,Manual,Available in 6 colors,"Pure Grey With Black Roof (#b0b0b0, #231f20); Royal Blue With Black Roof (#35407a, #231f20); Ocean Blue With White Roof (#3d7479, #ebebeb); Grassland Beige with Black Roof (#7d7c5f, #231f20); Pristine White with Black Roof (#ecedef, #000000); Daytona Grey with Black Roof (#38393b, #000000)",N/A
+Tata,Nexon 1.2 Fearless Plus PS Dark Edition,₹15.45 L,Petrol,Manual,Available in 1 colors,Carbon Black (#000000),N/A
+Tata,Nexon 1.2 Fearless Plus PS CNG,₹16.36 L,CNG,Manual,Available in 6 colors,"Pure Grey With Black Roof (#b0b0b0, #231f20); Royal Blue With Black Roof (#35407a, #231f20); Ocean Blue With White Roof (#3d7479, #ebebeb); Grassland Beige with Black Roof (#7d7c5f, #231f20); Daytona Grey With Black Roof (#38393b, #000000); Pristine White With Black Roof (#ecedef, #000000)",N/A
+Tata,Nexon 1.2 Fearless Plus PS DCA,₹16.58 L,Petrol,Automatic,Available in 6 colors,"Pure Grey With Black Roof (#b0b0b0, #231f20); Royal Blue With Black Roof (#35407a, #231f20); Ocean Blue With White Roof (#3d7479, #ebebeb); Grassland Beige with Black Roof (#7d7c5f, #231f20); Pristine White with Black Roof (#ecedef, #000000); Daytona Grey with Black Roof (#38393b, #000000)",N/A
+Tata,Nexon 1.2 Fearless Plus PS DCA Dark Edition,₹16.81 L,Petrol,Automatic,Available in 1 colors,Carbon Black (#000000),N/A
+Tata,Nexon 1.5 Fearless Plus PS,₹17.18 L,Diesel,Manual,Available in 6 colors,"Pure Grey With Black Roof (#b0b0b0, #231f20); Royal Blue With Black Roof (#35407a, #231f20); Ocean Blue With White Roof (#3d7479, #ebebeb); Grassland Beige with Black Roof (#7d7c5f, #231f20); Pristine White with Black Roof (#ecedef, #000000); Daytona Grey with Black Roof (#38393b, #000000)",N/A
+Tata,Nexon 1.5 Fearless Plus PS Dark Edition,₹17.41 L,Diesel,Manual,Available in 1 colors,Carbon Black (#000000),N/A
+Tata,Nexon 1.5 Fearless Plus PS AMT,₹17.99 L,Diesel,Automatic,Available in 6 colors,"Pure Grey With Black Roof (#b0b0b0, #231f20); Royal Blue With Black Roof (#35407a, #231f20); Ocean Blue With White Roof (#3d7479, #ebebeb); Grassland Beige with Black Roof (#7d7c5f, #231f20); Pristine White with Black Roof (#ecedef, #000000); Daytona Grey with Black Roof (#38393b, #000000)",N/A
+Tata,Nexon 1.5 Fearless Plus PS AMT Dark Edition,₹18.22 L,Diesel,Automatic,Available in 1 colors,Carbon Black (#000000),N/A
+Tata,Nexon 1.2 Smart,₹8.88 L,Petrol,Manual,Available in 2 colors,Daytona Grey (#71757b); Pristine White (#ebebeb),N/A
+Tata,Curvv EV Accomplished 55,₹19.28 L,Electric,Automatic,Available in 4 colors,"Flame Red with Black Roof (#6e1618, #000000); Pure Grey with Black Roof (#acadb2, #000000); Pristine White with Black Roof (#ebebeb, #000000); Virtual Sunrise with Black Roof (#98a3ea, , #000000)",N/A
+Tata,Curvv EV Accomplished Plus S 55,₹20.04 L,Electric,Automatic,Available in 4 colors,"Pristine White with Black Roof (#ebebeb, #000000); Pure Grey with Black Roof (#acadb2, #000000); Virtual Sunrise with Black Roof (#98a3ea, #000000); Flame Red with Black Roof (#6e1618, #000000)",N/A
+Tata,Curvv EV Empowered Plus 55,₹21.35 L,Electric,Automatic,Available in 5 colors,"Pure Grey with Black Roof (#acadb2, #000000); Pristine White with Black Roof (#ebebeb, #000000); Virtual Sunrise with Black Roof (#98a3ea, #000000); Flame Red with Black Roof (#6e1618, #000000); Empowered Oxide with Black Roof (#d0d4cf, #000000)",N/A
+Tata,Curvv EV Empowered Plus A 55,₹22.11 L,Electric,Automatic,Available in 5 colors,"Pure Grey with Black Roof (#acadb2, #000000); Pristine White with Black Roof (#ebebeb, #000000); Virtual Sunrise with Black Roof (#98a3ea, #000000); Flame Red with Black Roof (#6e1618, #000000); Empowered Oxide with Black Roof (#d0d4cf, #000000)",N/A
+Tata,Curvv EV Empowered Plus A 55 Dark Edition,₹22.37 L,Electric,Automatic,Available in 1 colors,Carbon Black (#15161a),N/A
+Tata,Curvv EV Creative 45,₹17.46 L,Electric,Automatic,Available in 3 colors,"Pure Grey with Black Roof (#acadb2, #000000); Pristine White with Black Roof (#ebebeb, #000000); Virtual Sunrise with Black Roof (#98a3ea, #000000)",N/A
+Tata,Curvv EV Accomplished 45,₹18.49 L,Electric,Automatic,Available in 4 colors,"Pure Grey with Black Roof (#acadb2, #000000); Pristine White with Black Roof (#ebebeb, #000000); Virtual Sunrise with Black Roof (#98a3ea, #000000); Flame Red with Black Roof (#6e1618, #000000)",N/A
+Tata,Curvv EV Accomplished Plus S 45,₹19.32 L,Electric,Automatic,Available in 4 colors,"Pure Grey with Black Roof (#acadb2, #000000); Pristine White with Black Roof (#ebebeb, #000000); Virtual Sunrise with Black Roof (#98a3ea, #000000); Flame Red with Black Roof (#6e1618, #000000)",N/A
+Tata,Nexon EV Empowered Plus 45,₹17.94 L,Electric,Automatic,Available in 4 colors,"Empowered Oxide With Black Roof (#acadb2, #000000); Intensi Teal With Black Roof (#00486e, #000000); Flame Red With Black Roof (#6e1618, #000000); Daytona Grey With Black Roof (#38393b, #000000)",N/A
+Tata,Nexon EV Fearless 45,₹15.87 L,Electric,Automatic,Available in 4 colors,"Pristine White With Black Roof (#ecedef, #000000); Flame Red With Black Roof (#6e1618, #000000); Daytona Grey With Black Roof (#38393b, #000000); Fearless Purple With Black Roof (#221461, #000000)",N/A
+Tata,Nexon EV Fearless Plus LR,₹15.99 L,Electric,Automatic,Available in 3 colors,"Fearless Purple With Black Roof (#221461, #191e24); Flame Red With Black Roof (#901e12, #191e24); Daytona Grey With Black Roof (#40454b, #191e24)",N/A
+Tata,Nexon EV Fearless Plus S LR,₹16.20 L,Electric,Automatic,Available in 3 colors,"Fearless Purple With Black Roof (#221461, #191e24); Flame Red With Black Roof (#901e12, #191e24); Daytona Grey With Black Roof (#40454b, #191e24)",N/A
+Tata,Nexon EV Empowered 45,₹16.91 L,Electric,Automatic,Available in 4 colors,"Empowered Oxide With Black Roof (#acadb2, #000000); Intensi Teal With Black Roof (#00486e, #000000); Flame Red With Black Roof (#6e1618, #000000); Daytona Grey With Black Roof (#38393b, #000000)",N/A
+Tata,Nexon EV Empowered Plus LR,₹17.24 L,Electric,Automatic,Available in 4 colors,"Intensi Teal With Black Roof (#00486e, #191e24); Flame Red With Black Roof (#901e12, #191e24); Daytona Grey With Black Roof (#40454b, #191e24); Empowered Oxide With Black Roof (#acadb2, #191e24)",N/A
+Tata,Nexon EV Empowered Plus 45 Red Dark Edition,₹18.15 L,Electric,Automatic,Available in 1 colors,Empowered Dark (#000000),N/A
+Tata,Nexon EV Creative 45,₹14.84 L,Electric,Automatic,Available in 4 colors,"Creative Ocean With White Roof (#3d7479, #ebebeb); Flame Red With White Roof (#6e1618, #ecedef); Daytona Grey With White Roof (#38393b, #ecedef); Pristine White (#ecedef, #ecedef)",N/A
+Tata,Harrier Pure Plus S,₹21.64 L,Diesel,Manual,Available in 2 colors,Lunar White (#f3f3f5); Ash Grey (#b7bec4),N/A
+Tata,Harrier Fearless Plus Stealth Edition AT,₹30.70 L,Diesel,Automatic,Available in 1 colors,Stealth Black (#15161a),N/A
+Tata,Harrier Smart,₹17.45 L,Diesel,Manual,Available in 2 colors,Ash Grey (#b7bec4); Lunar White (#f3f3f5),N/A
+Tata,Harrier Smart (O),₹18.43 L,Diesel,Manual,Available in 2 colors,Ash Grey (#b7bec4); Lunar White (#f3f3f5),N/A
+Tata,Harrier Pure,₹19.33 L,Diesel,Manual,Available in 2 colors,Ash Grey (#b7bec4); Lunar White (#f3f3f5),N/A
+Tata,Harrier Pure (O),₹19.91 L,Diesel,Manual,Available in 2 colors,Ash Grey (#b7bec4); Lunar White (#f3f3f5),N/A
+Tata,Harrier Pure Plus,₹21.29 L,Diesel,Manual,Available in 2 colors,Ash Grey (#b7bec4); Lunar White (#f3f3f5),N/A
+Tata,Harrier Pure Plus S Dark Edition,₹21.98 L,Diesel,Manual,Available in 1 colors,Oberon Black (#18191e),N/A
+Tata,Harrier Pure Plus AT,₹22.21 L,Diesel,Automatic,Available in 2 colors,Ash Grey (#b7bec4); Lunar White (#f3f3f5),N/A
+Tata,Harrier Adventure,₹22.44 L,Diesel,Manual,Available in 4 colors,Coral Red (#aa1b17); Lunar White (#f3f3f5); Pebble Grey (#55545a); Seaweed Green (#2a2f19),N/A
+Tata,Harrier Pure Plus S AT,₹22.79 L,Diesel,Automatic,Available in 2 colors,Ash Grey (#b7bec4); Lunar White (#f3f3f5),N/A
+Tata,Harrier Pure Plus S Dark Edition AT,₹22.96 L,Diesel,Automatic,Available in 1 colors,Oberon Black (#18191e),N/A
+Tata,Harrier Adventure Plus,₹24.17 L,Diesel,Manual,Available in 4 colors,Coral Red (#aa1b17); Lunar White (#f3f3f5); Pebble Grey (#55545a); Seaweed Green (#2a2f19),N/A
+Tata,Harrier Adventure Plus Dark Edition,₹24.75 L,Diesel,Manual,Available in 1 colors,Oberon Black (#18191e),N/A
+Tata,Harrier Adventure Plus A,₹25.32 L,Diesel,Manual,Available in 4 colors,Coral Red (#aa1b17); Lunar White (#f3f3f5); Pebble Grey (#55545a); Seaweed Green (#2a2f19),N/A
+Tata,Harrier Adventure Plus AT,₹25.79 L,Diesel,Automatic,Available in 4 colors,Coral Red (#aa1b17); Lunar White (#f3f3f5); Pebble Grey (#55545a); Seaweed Green (#2a2f19),N/A
+Tata,Harrier Adventure Plus Dark Edition AT,₹26.36 L,Diesel,Automatic,Available in 1 colors,Oberon Black (#18191e),N/A
+Tata,Harrier Fearless,₹26.50 L,Diesel,Manual,Available in 4 colors,"Coral Red With Black Roof (#aa1b17, #000000); Lunar White With Black Roof (#f3f3f5, #000000); Pebble Grey With Black Roof (#55545a, #000000); Sunlit Yellow With Black Roof (#b6ad22, #000000)",N/A
+Tata,Harrier Adventure Plus A AT,₹26.94 L,Diesel,Automatic,Available in 4 colors,Coral Red (#aa1b17); Lunar White (#f3f3f5); Pebble Grey (#55545a); Seaweed Green (#2a2f19),N/A
+Tata,Harrier Fearless Dark Edition,₹27.07 L,Diesel,Manual,Available in 1 colors,Oberon Black (#18191e),N/A
+Tata,Harrier Fearless AT,₹28.11 L,Diesel,Automatic,Available in 4 colors,"Coral Red With Black Roof (#aa1b17, #000000); Lunar White With Black Roof (#f3f3f5, #000000); Pebble Grey With Black Roof (#55545a, #000000); Sunlit Yellow With Black Roof (#b6ad22, #000000)",N/A
+Tata,Harrier Fearless Plus,₹28.22 L,Diesel,Manual,Available in 4 colors,"Coral Red With Black Roof (#aa1b17, #000000); Lunar White With Black Roof (#f3f3f5, #000000); Pebble Grey With Black Roof (#55545a, #000000); Sunlit Yellow With Black Roof (#b6ad22, #000000)",N/A
+Tata,Harrier Fearless Dark Edition AT,₹28.69 L,Diesel,Automatic,Available in 1 colors,Oberon Black (#18191e),N/A
+Tata,Harrier Fearless Plus Dark Edition,₹28.80 L,Diesel,Manual,Available in 1 colors,Oberon Black (#18191e),N/A
+Tata,Harrier Fearless Plus Stealth Edition,₹29.09 L,Diesel,Manual,Available in 1 colors,Stealth Black (#15161a),N/A
+Tata,Harrier Fearless Plus AT,₹29.84 L,Diesel,Automatic,Available in 4 colors,"Coral Red With Black Roof (#aa1b17, #000000); Lunar White With Black Roof (#f3f3f5, #000000); Pebble Grey With Black Roof (#55545a, #000000); Sunlit Yellow With Black Roof (#b6ad22, #000000)",N/A
+Tata,Harrier Fearless Plus Dark Edition AT,₹30.41 L,Diesel,Automatic,Available in 1 colors,Oberon Black (#18191e),N/A
+Tata,Punch EV Adventure LR 3.3,₹13.45 L,Electric,Automatic,Available in 4 colors,Pristine White (#f2f3f6); Fearless Red (#6f1a1c); Daytona Grey (#303232); Seaweed (#4f5634),N/A
+Tata,Punch EV Adventure S LR 3.3,₹13.76 L,Electric,Automatic,Available in 4 colors,"Daytona Grey with Black Roof (#303232, #000000); Pristine White with Black Roof (#f2f3f6, #000000); Fearless Red with Black Roof (#6f1a1c, #000000); Seaweed with Black Roof (#4f5634, #000000)",N/A
+Tata,Punch EV Smart 3.3,₹10.40 L,Electric,Automatic,Available in 1 colors,Pristine White (#f2f3f6),N/A
+Tata,Punch EV Smart Plus 3.3,₹11.69 L,Electric,Automatic,Available in 1 colors,Pristine White (#f2f3f6),N/A
+Tata,Punch EV Adventure 3.3,₹12.42 L,Electric,Automatic,Available in 4 colors,Pristine White (#f2f3f6); Fearless Red (#6f1a1c); Daytona Grey (#303232); Seaweed (#4f5634),N/A
+Tata,Punch EV Adventure S 3.3,₹12.73 L,Electric,Automatic,Available in 4 colors,"Pristine White with Black Roof (#f2f3f6, #000000); Fearless Red with Black Roof (#6f1a1c, #000000); Daytona Grey with Black Roof (#303232, #000000); Seaweed with Black Roof (#4f5634, #000000)",N/A
+Tata,Punch EV Empowered 3.3,₹13.24 L,Electric,Automatic,Available in 5 colors,"Pristine White with Black Roof (#f2f3f6, #000000); Fearless Red with Black Roof (#6f1a1c, #000000); Daytona Grey with Black Roof (#303232, #000000); Seaweed with Black Roof (#4f5634, #000000); Empowered Oxide with Black Roof (#d0d4cf, #000000)",N/A
+Tata,Punch EV Empowered S 3.3,₹13.45 L,Electric,Automatic,Available in 5 colors,"Pristine White with Black Roof (#f2f3f6, #000000); Fearless Red with Black Roof (#6f1a1c, #000000); Daytona Grey with Black Roof (#303232, #000000); Seaweed with Black Roof (#4f5634, #000000); Empowered Oxide with Black Roof (#d0d4cf, #000000)",N/A
+Tata,Punch EV Empowered Plus 3.3,₹13.45 L,Electric,Automatic,Available in 5 colors,"Pristine White with Black Roof (#f2f3f6, #000000); Fearless Red with Black Roof (#6f1a1c, #000000); Daytona Grey with Black Roof (#303232, #000000); Seaweed with Black Roof (#4f5634, #000000); Empowered Oxide with Black Roof (#d0d4cf, #000000)",N/A
+Tata,Punch EV Empowered Plus S 3.3,₹13.76 L,Electric,Automatic,Available in 5 colors,"Pristine White with Black Roof (#f2f3f6, #000000); Fearless Red with Black Roof (#6f1a1c, #000000); Daytona Grey with Black Roof (#303232, #000000); Seaweed with Black Roof (#4f5634, #000000); Empowered Oxide with Black Roof (#d0d4cf, #000000)",N/A
+Tata,Punch EV Adventure LR 7.2,₹13.99 L,Electric,Automatic,Available in 4 colors,Pristine White (#f2f3f6); Fearless Red (#6f1a1c); Daytona Grey (#303232); Seaweed (#4f5634),N/A
+Tata,Punch EV Empowered LR 3.3,₹14.07 L,Electric,Automatic,Available in 5 colors,"Pristine White with Black Roof (#f2f3f6, #000000); Fearless Red with Black Roof (#6f1a1c, #000000); Daytona Grey with Black Roof (#303232, #000000); Seaweed with Black Roof (#4f5634, #000000); Empowered Oxide with Black Roof (#d0d4cf, #000000)",N/A
+Tata,Punch EV Empowered S LR 3.3,₹14.28 L,Electric,Automatic,Available in 5 colors,"Pristine White with Black Roof (#f2f3f6, #000000); Fearless Red with Black Roof (#6f1a1c, #000000); Daytona Grey with Black Roof (#303232, #000000); Seaweed with Black Roof (#4f5634, #000000); Empowered Oxide with Black Roof (#d0d4cf, #000000)",N/A
+Tata,Punch EV Empowered Plus LR 3.3,₹14.28 L,Electric,Automatic,Available in 5 colors,"Pristine White with Black Roof (#f2f3f6, #000000); Fearless Red with Black Roof (#6f1a1c, #000000); Daytona Grey with Black Roof (#303232, #000000); Seaweed with Black Roof (#4f5634, #000000); Empowered Oxide with Black Roof (#d0d4cf, #000000)",N/A
+Tata,Punch EV Adventure S LR 7.2,₹14.30 L,Electric,Automatic,Available in 4 colors,"Pristine White with Black Roof (#f2f3f6, #000000); Fearless Red with Black Roof (#6f1a1c, #000000); Daytona Grey with Black Roof (#303232, #000000); Seaweed with Black Roof (#4f5634, #000000)",N/A
+Tata,Punch EV Empowered Plus S LR 3.3,₹14.59 L,Electric,Automatic,Available in 5 colors,"Pristine White with Black Roof (#f2f3f6, #000000); Fearless Red with Black Roof (#6f1a1c, #000000); Daytona Grey with Black Roof (#303232, #000000); Seaweed with Black Roof (#4f5634, #000000); Empowered Oxide with Black Roof (#d0d4cf, #000000)",N/A
+Tata,Punch EV Empowered LR 7.2,₹14.61 L,Electric,Automatic,Available in 5 colors,"Pristine White with Black Roof (#f2f3f6, #000000); Fearless Red with Black Roof (#6f1a1c, #000000); Daytona Grey with Black Roof (#303232, #000000); Seaweed with Black Roof (#4f5634, #000000); Empowered Oxide with Black Roof (#d0d4cf, #000000)",N/A
+Tata,Punch EV Empowered S LR 7.2,₹14.82 L,Electric,Automatic,Available in 5 colors,"Pristine White with Black Roof (#f2f3f6, #000000); Fearless Red with Black Roof (#6f1a1c, #000000); Daytona Grey with Black Roof (#303232, #000000); Seaweed with Black Roof (#4f5634, #000000); Empowered Oxide with Black Roof (#d0d4cf, #000000)",N/A
+Tata,Punch EV Empowered Plus LR 7.2,₹14.82 L,Electric,Automatic,Available in 5 colors,"Pristine White with Black Roof (#f2f3f6, #000000); Fearless Red with Black Roof (#6f1a1c, #000000); Daytona Grey with Black Roof (#303232, #000000); Seaweed with Black Roof (#4f5634, #000000); Empowered Oxide with Black Roof (#d0d4cf, #000000)",N/A
+Tata,Punch EV Empowered Plus S LR 7.2,₹15.13 L,Electric,Automatic,Available in 5 colors,"Pristine White with Black Roof (#f2f3f6, #000000); Fearless Red with Black Roof (#6f1a1c, #000000); Daytona Grey with Black Roof (#303232, #000000); Seaweed with Black Roof (#4f5634, #000000); Empowered Oxide with Black Roof (#d0d4cf, #000000)",N/A
+Tata,Safari Smart,₹18.12 L,Diesel,Manual,Available in 2 colors,Lunar Slate (#38393b); Stellar Frost (#fefefe),N/A
+Tata,Safari Smart (O),₹19.11 L,Diesel,Manual,Available in 2 colors,Lunar Slate (#38393b); Stellar Frost (#fefefe),N/A
+Tata,Safari Pure,₹20.01 L,Diesel,Manual,Available in 2 colors,Lunar Slate (#38393b); Stellar Frost (#fefefe),N/A
+Tata,Safari Pure (O),₹20.59 L,Diesel,Manual,Available in 2 colors,Lunar Slate (#38393b); Stellar Frost (#fefefe),N/A
+Tata,Safari Pure Plus,₹21.98 L,Diesel,Manual,Available in 2 colors,Lunar Slate (#38393b); Stellar Frost (#fefefe),N/A
+Tata,Safari Pure Plus S,₹22.33 L,Diesel,Manual,Available in 2 colors,Lunar Slate (#38393b); Stellar Frost (#fefefe),N/A
+Tata,Safari Pure Plus S Dark Edition,₹22.68 L,Diesel,Manual,Available in 1 colors,Oberon Black (#000000),N/A
+Tata,Safari Pure Plus AT,₹22.91 L,Diesel,Automatic,Available in 2 colors,Lunar Slate (#38393b); Stellar Frost (#fefefe),N/A
+Tata,Safari Pure Plus S AT,₹23.08 L,Diesel,Automatic,Available in 2 colors,Lunar Slate (#38393b); Stellar Frost (#fefefe),N/A
+Tata,Safari Adventure,₹23.08 L,Diesel,Manual,Available in 4 colors,Stellar Frost (#fefefe); Stardust Ash (#6c7379); Galactic Sapphire (#0061aa); Supernova Copper (#ca7f6a),N/A
+Tata,Safari Pure Plus S Dark Edition AT,₹23.83 L,Diesel,Automatic,Available in 1 colors,Oberon Black (#000000),N/A
+Tata,Safari Adventure Plus,₹25.22 L,Diesel,Manual,Available in 4 colors,Stellar Frost (#fefefe); Stardust Ash (#6c7379); Galactic Sapphire (#0061aa); Supernova Copper (#ca7f6a),N/A
+Tata,Safari Adventure Plus Dark Edition,₹25.80 L,Diesel,Manual,Available in 1 colors,Oberon Black (#000000),N/A
+Tata,Safari Adventure Plus A,₹26.38 L,Diesel,Manual,Available in 4 colors,Stellar Frost (#fefefe); Stardust Ash (#6c7379); Galactic Sapphire (#0061aa); Supernova Copper (#ca7f6a),N/A
+Tata,Safari Adventure Plus AT,₹26.84 L,Diesel,Automatic,Available in 4 colors,Stellar Frost (#fefefe); Stardust Ash (#6c7379); Galactic Sapphire (#0061aa); Supernova Copper (#ca7f6a),N/A
+Tata,Safari Adventure Plus Dark Edition AT,₹27.42 L,Diesel,Automatic,Available in 1 colors,Oberon Black (#000000),N/A
+Tata,Safari Accomplished,₹27.79 L,Diesel,Manual,Available in 4 colors,"Cosmic Gold With Black Roof (#caac7c, #000000); Galactic Sapphire With Black Roof (#0061aa, #000000); Stardust Ash With Black Roof (#6c7379, #000000); Stellar Frost With Black Roof (#fefefe, #000000)",N/A
+Tata,Safari Adventure Plus A AT,₹28.00 L,Diesel,Automatic,Available in 4 colors,Stellar Frost (#fefefe); Stardust Ash (#6c7379); Galactic Sapphire (#0061aa); Supernova Copper (#ca7f6a),N/A
+Tata,Safari Accomplished Dark Edition,₹28.14 L,Diesel,Manual,Available in 1 colors,Oberon Black (#000000),N/A
+Tata,Safari Accomplished Plus,₹29.12 L,Diesel,Manual,Available in 4 colors,"Cosmic Gold With Black Roof (#caac7c, #000000); Galactic Sapphire With Black Roof (#0061aa, #000000); Stardust Ash With Black Roof (#6c7379, #000000); Stellar Frost With Black Roof (#fefefe, #000000)",N/A
+Tata,Safari Accomplished Plus 6S,₹29.24 L,Diesel,Manual,Available in 4 colors,"Cosmic Gold With Black Roof (#caac7c, #000000); Galactic Sapphire With Black Roof (#0061aa, #000000); Stardust Ash With Black Roof (#6c7379, #000000); Stellar Frost With Black Roof (#fefefe, #000000)",N/A
+Tata,Safari Accomplished AT,₹29.41 L,Diesel,Automatic,Available in 4 colors,"Cosmic Gold With Black Roof (#caac7c, #000000); Galactic Sapphire With Black Roof (#0061aa, #000000); Stardust Ash With Black Roof (#6c7379, #000000); Stellar Frost With Black Roof (#fefefe, #000000)",N/A
+Tata,Safari Accomplished Plus Dark Edition,₹29.47 L,Diesel,Manual,Available in 1 colors,Oberon Black (#000000),N/A
+Tata,Safari Accomplished Dark Edition AT,₹29.76 L,Diesel,Automatic,Available in 1 colors,Oberon Black (#000000),N/A
+Tata,Safari Accomplished Plus Dark Edition 6S,₹29.81 L,Diesel,Manual,Available in 1 colors,Oberon Black (#000000),N/A
+Tata,Safari Accomplished Plus Stealth Edition,₹29.99 L,Diesel,Manual,Available in 1 colors,Stealth Black (#15161a),N/A
+Tata,Safari Accomplished Plus AT,₹30.74 L,Diesel,Automatic,Available in 4 colors,"Galactic Sapphire With Black Roof (#0061aa, #000000); Cosmic Gold With Black Roof (#caac7c, #000000); Stardust Ash With Black Roof (#6c7379, #000000); Stellar Frost With Black Roof (#fefefe, #000000)",N/A
+Tata,Safari Accomplished Plus 6S AT,₹30.86 L,Diesel,Automatic,Available in 4 colors,"Cosmic Gold With Black Roof (#caac7c, #000000); Galactic Sapphire With Black Roof (#0061aa, #000000); Stardust Ash With Black Roof (#6c7379, #000000); Stellar Frost With Black Roof (#fefefe, #000000)",N/A
+Tata,Safari Accomplished Plus Dark Edition AT,₹31.32 L,Diesel,Automatic,Available in 1 colors,Oberon Black (#000000),N/A
+Tata,Safari Accomplished Plus Dark Edition 6S AT,₹31.44 L,Diesel,Automatic,Available in 1 colors,Oberon Black (#000000),N/A
+Tata,Safari Accomplished Plus Stealth Edition AT,₹31.61 L,Diesel,Automatic,Available in 1 colors,Stealth Black (#15161a),N/A
+Tata,Safari Accomplished Plus Stealth Edition 6S AT,₹31.72 L,Diesel,Automatic,Available in 1 colors,Stealth Black (#15161a),N/A
+Tata,Curvv 1.2 Pure Plus,₹13.12 L,Petrol,Manual,Available in 4 colors,Pristine White (#fefefe); Opera Blue (#313a72); Flame Red (#6e1618); Daytona Grey (#38393b),N/A
+Tata,Curvv 1.5 Smart,₹13.63 L,Diesel,Manual,Available in 2 colors,Daytona Grey (#38393b); Pristine White (#fefefe),N/A
+Tata,Curvv 1.2 Pure Plus S,₹13.92 L,Petrol,Manual,Available in 4 colors,Flame Red (#6e1618); Opera Blue (#313a72); Daytona Grey (#38393b); Pristine White (#fefefe),N/A
+Tata,Curvv 1.2 Pure Plus S DCA,₹15.60 L,Petrol,Automatic,Available in 4 colors,Daytona Grey (#38393b); Pristine White (#fefefe); Opera Blue (#313a72); Flame Red (#6e1618),N/A
+Tata,Curvv 1.2 Creative Plus S,₹16.17 L,Petrol,Manual,Available in 5 colors,"Pristine White with Black roof (#fefefe, #0e0e0e); Nitro Crimson with Black roof (#5c121e, #0e0e0e); Opera Blue with Black roof (#313a72, #0e0e0e); Flame Red with Black roof (#6e1618, #0e0e0e); Pure Grey with Black roof (#aaabb0, #0e0e0e)",N/A
+Tata,Curvv 1.2 Creative DCA,₹16.17 L,Petrol,Automatic,Available in 5 colors,Pristine White (#fefefe); Nitro Crimson (#5c121e); Opera Blue (#313a72); Flame Red (#6e1618); Daytona Grey (#38393b),N/A
+Tata,Curvv 1.2 Accomplished S,₹17.30 L,Petrol,Manual,Available in 6 colors,"Pure Grey with Black roof (#aaabb0, #0e0e0e); Nitro Crimson with Black roof (#5c121e, #0e0e0e); Gold Essence with Black roof (#b9a593, #0e0e0e); Opera Blue with Black roof (#313a72, #0e0e0e); Flame Red with Black roof (#6e1618, #0e0e0e); Pristine White with Black roof (#fefefe, #0e0e0e)",N/A
+Tata,Curvv 1.2 Accomplished Plus A Dark,₹20.70 L,Petrol,Manual,Available in 1 colors,Glossy Carbon Black (#565657),N/A
+Tata,Curvv 1.5 Accomplished Plus A Dark,₹21.18 L,Diesel,Manual,Available in 1 colors,Glossy Carbon Black (#565657),N/A
+Tata,Curvv 1.2 Smart,₹11.24 L,Petrol,Manual,Available in 2 colors,Daytona Grey (#38393b); Pristine White (#fefefe),N/A
+Tata,Curvv 1.2 Creative,₹14.48 L,Petrol,Manual,Available in 5 colors,Nitro Crimson (#5c121e); Opera Blue (#313a72); Flame Red (#6e1618); Daytona Grey (#38393b); Pristine White (#fefefe),N/A
+Tata,Curvv 1.2 Pure Plus DCA,₹14.83 L,Petrol,Automatic,Available in 4 colors,Opera Blue (#313a72); Flame Red (#6e1618); Daytona Grey (#38393b); Pristine White (#fefefe),N/A
+Tata,Curvv 1.2 Creative S,₹15.03 L,Petrol,Manual,Available in 5 colors,Nitro Crimson (#5c121e); Opera Blue (#313a72); Flame Red (#6e1618); Daytona Grey (#38393b); Pristine White (#fefefe),N/A
+Tata,Curvv 1.5 Pure Plus,₹15.12 L,Diesel,Manual,Available in 4 colors,Opera Blue (#313a72); Flame Red (#6e1618); Daytona Grey (#38393b); Pristine White (#fefefe),N/A
+Tata,Curvv 1.5 Pure Plus S,₹15.94 L,Diesel,Manual,Available in 4 colors,Opera Blue (#313a72); Flame Red (#6e1618); Daytona Grey (#38393b); Pristine White (#fefefe),N/A
+Tata,Curvv 1.2 Creative S GDi,₹16.39 L,Petrol,Manual,Available in 5 colors,Nitro Crimson (#5c121e); Opera Blue (#313a72); Flame Red (#6e1618); Daytona Grey (#38393b); Pristine White (#fefefe),N/A
+Tata,Curvv 1.5 Creative,₹16.52 L,Diesel,Manual,Available in 5 colors,Nitro Crimson (#5c121e); Opera Blue (#313a72); Flame Red (#6e1618); Daytona Grey (#38393b); Pristine White (#fefefe),N/A
+Tata,Curvv 1.2 Creative S DCA,₹16.73 L,Petrol,Automatic,Available in 5 colors,Nitro Crimson (#5c121e); Opera Blue (#313a72); Flame Red (#6e1618); Daytona Grey (#38393b); Pristine White (#fefefe),N/A
+Tata,Curvv 1.5 Pure Plus DCA,₹16.86 L,Diesel,Automatic,Available in 4 colors,Opera Blue (#313a72); Flame Red (#6e1618); Pure Grey (#aaabb0); Pristine White (#fefefe),N/A
+Tata,Curvv 1.5 Creative S,₹17.10 L,Diesel,Manual,Available in 5 colors,Nitro Crimson (#5c121e); Opera Blue (#313a72); Flame Red (#6e1618); Daytona Grey (#38393b); Pristine White (#fefefe),N/A
+Tata,Curvv 1.2 Creative Plus S GDi,₹17.53 L,Petrol,Manual,Available in 5 colors,"Nitro Crimson with Black roof (#5c121e, #0e0e0e); Opera Blue with Black roof (#313a72, #0e0e0e); Flame Red with Black roof (#6e1618, #0e0e0e); Pure Grey with Black roof (#aaabb0, #0e0e0e); Pristine White with Black roof (#fefefe, #0e0e0e)",N/A
+Tata,Curvv 1.5 Pure Plus S DCA,₹17.68 L,Diesel,Automatic,Available in 4 colors,Opera Blue (#313a72); Flame Red (#6e1618); Pure Grey (#aaabb0); Pristine White (#fefefe),N/A
+Tata,Curvv 1.2 Creative Plus S DCA,₹17.87 L,Petrol,Automatic,Available in 5 colors,"Nitro Crimson with Black roof (#5c121e, #0e0e0e); Opera Blue with Black roof (#313a72, #0e0e0e); Flame Red with Black roof (#6e1618, #0e0e0e); Pure Grey with Black roof (#aaabb0, #0e0e0e); Pristine White with Black roof (#fefefe, #0e0e0e)",N/A
+Tata,Curvv 1.5 Creative Plus S,₹18.26 L,Diesel,Manual,Available in 5 colors,"Nitro Crimson with Black roof (#5c121e, #0e0e0e); Opera Blue with Black roof (#313a72, #0e0e0e); Flame Red with Black roof (#6e1618, #0e0e0e); Pure Grey with Black roof (#aaabb0, #0e0e0e); Pristine White with Black roof (#fefefe, #0e0e0e)",N/A
+Tata,Curvv 1.2 Accomplished S GDi,₹18.66 L,Petrol,Manual,Available in 6 colors,"Nitro Crimson with Black roof (#5c121e, #0e0e0e); Gold Essence with Black roof (#b9a593, #0e0e0e); Opera Blue with Black roof (#313a72, #0e0e0e); Flame Red with Black roof (#6e1618, #0e0e0e); Pure Grey with Black roof (#aaabb0, #0e0e0e); Pristine White with Black roof (#fefefe, #0e0e0e)",N/A
+Tata,Curvv 1.5 Creative S DCA,₹18.84 L,Diesel,Automatic,Available in 5 colors,Nitro Crimson (#5c121e); Opera Blue (#313a72); Flame Red (#6e1618); Pure Grey (#aaabb0); Pristine White (#fefefe),N/A
+Tata,Curvv 1.2 Accomplished S Dark,₹18.99 L,Petrol,Manual,Available in 1 colors,Glossy Carbon BlacK (#565657),N/A
+Tata,Curvv 1.2 Accomplished S DCA,₹19.01 L,Petrol,Automatic,Available in 6 colors,"Nitro Crimson with Black roof (#5c121e, #0e0e0e); Gold Essence with Black roof (#b9a593, #0e0e0e); Opera Blue with Black roof (#313a72, #0e0e0e); Flame Red with Black roof (#6e1618, #0e0e0e); Pure Grey with Black roof (#aaabb0, #0e0e0e); Pristine White with Black roof (#fefefe, #0e0e0e)",N/A
+Tata,Curvv 1.2 Creative Plus S DCA GDi,₹19.23 L,Petrol,Automatic,Available in 5 colors,"Nitro Crimson with Black roof (#5c121e, #0e0e0e); Opera Blue with Black roof (#313a72, #0e0e0e); Flame Red with Black roof (#6e1618, #0e0e0e); Pure Grey with Black roof (#aaabb0, #0e0e0e); Pristine White with Black roof (#fefefe, #0e0e0e)",N/A
+Tata,Curvv 1.5 Accomplished S,₹19.42 L,Diesel,Manual,Available in 6 colors,"Nitro Crimson with Black roof (#5c121e, #0e0e0e); Gold Essence with Black roof (#b9a593, #0e0e0e); Opera Blue with Black roof (#313a72, #0e0e0e); Flame Red with Black roof (#6e1618, #0e0e0e); Pure Grey with Black roof (#aaabb0, #0e0e0e); Pristine White with Black roof (#fefefe, #0e0e0e)",N/A
+Tata,Curvv 1.5 Accomplished S Dark,₹19.64 L,Diesel,Manual,Available in 1 colors,Glossy Carbon Black (#565657),N/A
+Tata,Curvv 1.5 Creative Plus S DCA,₹20.00 L,Diesel,Automatic,Available in 5 colors,"Nitro Crimson with Black roof (#5c121e, #0e0e0e); Opera Blue with Black roof (#313a72, #0e0e0e); Flame Red with Black roof (#6e1618, #0e0e0e); Pure Grey with Black roof (#aaabb0, #0e0e0e); Pristine White with Black roof (#fefefe, #0e0e0e)",N/A
+Tata,Curvv 1.2 Accomplished S DCA GDi,₹20.37 L,Petrol,Automatic,Available in 6 colors,"Nitro Crimson with Black roof (#5c121e, #0e0e0e); Gold Essence with Black roof (#b9a593, #0e0e0e); Opera Blue with Black roof (#313a72, #0e0e0e); Flame Red with Black roof (#6e1618, #0e0e0e); Pure Grey with Black roof (#aaabb0, #0e0e0e); Pristine White with Black roof (#fefefe, #0e0e0e)",N/A
+Tata,Curvv 1.2 Accomplished Plus A GDi,₹20.37 L,Petrol,Manual,Available in 6 colors,"Nitro Crimson with Black roof (#5c121e, #0e0e0e); Gold Essence with Black roof (#b9a593, #0e0e0e); Opera Blue with Black roof (#313a72, #0e0e0e); Flame Red with Black roof (#6e1618, #0e0e0e); Pure Grey with Black roof (#aaabb0, #0e0e0e); Pristine White with Black roof (#fefefe, #0e0e0e)",N/A
+Tata,Curvv 1.2 Accomplished S Dark DCA,₹20.70 L,Petrol,Automatic,Available in 1 colors,Glossy Carbon Black (#565657),N/A
+Tata,Curvv 1.5 Accomplished Plus A,₹20.96 L,Diesel,Manual,Available in 6 colors,"Nitro Crimson with Black roof (#5c121e, #0e0e0e); Gold Essence with Black roof (#b9a593, #0e0e0e); Opera Blue with Black roof (#313a72, #0e0e0e); Flame Red with Black roof (#6e1618, #0e0e0e); Pure Grey with Black roof (#aaabb0, #0e0e0e); Pristine White with Black roof (#fefefe, #0e0e0e)",N/A
+Tata,Curvv 1.5 Accomplished S DCA,₹21.16 L,Diesel,Automatic,Available in 6 colors,"Nitro Crimson with Black roof (#5c121e, #0e0e0e); Gold Essence with Black roof (#b9a593, #0e0e0e); Opera Blue with Black roof (#313a72, #0e0e0e); Flame Red with Black roof (#6e1618, #0e0e0e); Pure Grey with Black roof (#aaabb0, #0e0e0e); Pristine White with Black roof (#fefefe, #0e0e0e)",N/A
+Tata,Curvv 1.5 Accomplished S Dark DCA,₹21.38 L,Diesel,Automatic,Available in 1 colors,Glossy Carbon Black (#565657),N/A
+Tata,Curvv 1.2 Accomplished Plus A DCA GDi,₹22.07 L,Petrol,Automatic,Available in 6 colors,"Nitro Crimson with Black roof (#5c121e, #0e0e0e); Gold Essence with Black roof (#b9a593, #0e0e0e); Opera Blue with Black roof (#313a72, #0e0e0e); Flame Red with Black roof (#6e1618, #0e0e0e); Pure Grey with Black roof (#aaabb0, #0e0e0e); Pristine White with Black roof (#fefefe, #0e0e0e)",N/A
+Tata,Curvv 1.2 Accomplished Plus A Dark DCA,₹22.40 L,Petrol,Automatic,Available in 1 colors,Glossy Carbon Black (#565657),N/A
+Tata,Curvv 1.5 Accomplished Plus A DCA,₹22.70 L,Diesel,Automatic,Available in 6 colors,"Nitro Crimson with Black roof (#5c121e, #0e0e0e); Gold Essence with Black roof (#b9a593, #0e0e0e); Opera Blue with Black roof (#313a72, #0e0e0e); Flame Red with Black roof (#6e1618, #0e0e0e); Pure Grey with Black roof (#aaabb0, #0e0e0e); Pristine White with Black roof (#fefefe, #0e0e0e)",N/A
+Tata,Curvv 1.5 Accomplished Plus A Dark DCA,₹22.92 L,Diesel,Automatic,Available in 1 colors,Glossy Carbon Black (#565657),N/A
+Tata,Tigor XM,₹6.54 L,Petrol,Manual,Available in 2 colors,Pristine White (#dcdddf); Daytona Grey (#373739),N/A
+Tata,Tigor XZA Plus,₹9.53 L,Petrol,Automatic,Available in 5 colors,Meteor Bronze (#a07f52); Arizona Blue (#293b7e); Supernova Copper (#ca7f6a); Daytona Grey (#373739); Pristine White (#dcdddf),N/A
+Tata,Tigor XT,₹7.60 L,Petrol,Manual,Available in 2 colors,Daytona Grey (#373739); Pristine White (#dcdddf),N/A
+Tata,Tigor XTA,₹8.21 L,Petrol,Automatic,Available in 2 colors,Daytona Grey (#373739); Pristine White (#dcdddf),N/A
+Tata,Tigor XZ,₹8.26 L,Petrol,Manual,Available in 2 colors,Daytona Grey (#373739); Pristine White (#dcdddf),N/A
+Tata,Tigor XT CNG,₹8.71 L,CNG,Manual,Available in 2 colors,Daytona Grey (#373739); Pristine White (#dcdddf),N/A
+Tata,Tigor XZA,₹8.87 L,Petrol,Automatic,Available in 3 colors,Arizona Blue (#293b7e); Daytona Grey (#373739); Pristine White (#dcdddf),N/A
+Tata,Tigor XZ Plus,₹8.92 L,Petrol,Manual,Available in 5 colors,Meteor Bronze (#a07f52); Arizona Blue (#293b7e); Supernova Copper (#ca7f6a); Daytona Grey (#373739); Pristine White (#dcdddf),N/A
+Tata,Tigor XZ CNG,₹9.37 L,CNG,Manual,Available in 3 colors,Arizona Blue (#293b7e); Daytona Grey (#373739); Pristine White (#dcdddf),N/A
+Tata,Tigor XZ Plus Lux,₹9.47 L,Petrol,Manual,Available in 5 colors,Meteor Bronze (#a07f52); Arizona Blue (#293b7e); Supernova Copper (#ca7f6a); Daytona Grey (#373739); Pristine White (#dcdddf),N/A
+Tata,Tigor XZA CNG,₹9.97 L,CNG,Automatic,Available in 3 colors,Arizona Blue (#293b7e); Daytona Grey (#373739); Pristine White (#dcdddf),N/A
+Tata,Tigor XZ Plus CNG,₹10.03 L,CNG,Manual,Available in 5 colors,Meteor Bronze (#a07f52); Arizona Blue (#293b7e); Supernova Copper (#ca7f6a); Daytona Grey (#373739); Pristine White (#dcdddf),N/A
+Tata,Tigor XZ Plus Lux CNG,₹10.58 L,CNG,Manual,Available in 5 colors,Meteor Bronze (#a07f52); Arizona Blue (#293b7e); Supernova Copper (#ca7f6a); Daytona Grey (#373739); Pristine White (#dcdddf),N/A
+Tata,Tigor XZA Plus CNG,₹10.63 L,CNG,Automatic,Available in 5 colors,Meteor Bronze (#a07f52); Arizona Blue (#293b7e); Supernova Copper (#ca7f6a); Daytona Grey (#373739); Pristine White (#dcdddf),N/A
+Tata,Tiago EV XT LR,₹10.73 L,Electric,Automatic,Available in 6 colors,Daytona Grey (#373739); Pristine White (#dcdddf); Chill Lime (#d6ce7b); Teal Blue (#2c667a); Supernova Copper (#ca7f6a); Arizona Blue (#293b7e),N/A
+Tata,Tiago EV XE MR,₹8.41 L,Electric,Automatic,Available in 1 colors,Pristine White (#dcdddf),N/A
+Tata,Tiago EV XT MR,₹9.44 L,Electric,Automatic,Available in 6 colors,Chill Lime (#d6ce7b); Teal Blue (#2c667a); Supernova Copper (#ca7f6a); Arizona Blue (#293b7e); Daytona Grey (#373739); Pristine White (#dcdddf),N/A
+Tata,Tiago EV XZ Plus Tech LUX LR,₹11.77 L,Electric,Automatic,Available in 6 colors,"Chill Lime With Black Roof (#d6ce7b, #000000); Teal Blue (#2c667a); Supernova Copper (#ca7f6a); Arizona Blue (#293b7e); Daytona Grey (#373739); Pristine White (#dcdddf)",N/A
+Tata,Tiago NRG XZ,₹8.20 L,Petrol,Manual,Available in 4 colors,"Supernova Copper with Black Roof (#ca7f6a, #000000); Daytona Grey with Black Roof (#38393b, #000000); Grassland Beige with Black Roof (#716d58, #000000); Polar White with Black Roof (#dcdddf, #000000)",N/A
+Tata,Tiago NRG XZA,₹8.81 L,Petrol,Automatic,Available in 4 colors,"Supernova Copper with Black Roof (#ca7f6a, #000000); Daytona Grey with Black Roof (#38393b, #000000); Grassland Beige with Black Roof (#716d58, #000000); Polar White with Black Roof (#dcdddf, #000000)",N/A
+Tata,Tiago NRG XZ CNG,₹9.31 L,CNG,Manual,Available in 4 colors,"Supernova Copper with Black Roof (#ca7f6a, #000000); Daytona Grey with Black Roof (#38393b, #000000); Grassland Beige with Black Roof (#716d58, #000000); Polar White with Black Roof (#dcdddf, #000000)",N/A
+Tata,Tiago NRG XZA CNG,₹9.91 L,CNG,Automatic,Available in 4 colors,"Supernova Copper with Black Roof (#ca7f6a, #000000); Daytona Grey with Black Roof (#38393b, #000000); Grassland Beige with Black Roof (#716d58, #000000); Polar White with Black Roof (#dcdddf, #000000)",N/A
+Tata,Tiago XE,₹5.62 L,Petrol,Manual,Available in 2 colors,Daytona Grey (#373739); Pristine White (#dcdddf),N/A
+Tata,Tiago XM,₹6.38 L,Petrol,Manual,Available in 3 colors,Pristine White (#dcdddf); Daytona Grey (#373739); Arizona Blue (#293b7e),N/A
+Tata,Tiago XE CNG,₹6.69 L,CNG,Manual,Available in 2 colors,Daytona Grey (#373739); Pristine White (#dcdddf),N/A
+Tata,Tiago XT,₹7.16 L,Petrol,Manual,Available in 5 colors,Pristine White (#dcdddf); Ocean Blue (#679195); Supernova Copper (#ca7f6a); Arizona Blue (#293b7e); Daytona Grey (#373739),N/A
+Tata,Tiago XM CNG,₹7.65 L,CNG,Manual,Available in 3 colors,Daytona Grey (#373739); Pristine White (#dcdddf); Arizona Blue (#293b7e),N/A
+Tata,Tiago XT CNG,₹8.26 L,CNG,Manual,Available in 5 colors,Pristine White (#dcdddf); Daytona Grey (#373739); Ocean Blue (#679195); Supernova Copper (#ca7f6a); Arizona Blue (#293b7e),N/A
+Tata,Tiago XTA CNG,₹8.87 L,CNG,Automatic,Available in 5 colors,Pristine White (#dcdddf); Daytona Grey (#373739); Ocean Blue (#679195); Supernova Copper (#ca7f6a); Arizona Blue (#293b7e),N/A
+Tata,Tiago XZ CNG,₹8.98 L,CNG,Manual,Available in 6 colors,Pristine White (#dcdddf); Tornado Blue (#293b7e); Ocean Blue (#679195); Supernova Copper (#ca7f6a); Arizona Blue (#293b7e); Daytona Grey (#373739),N/A
+Tata,Tiago XZA CNG,₹9.58 L,CNG,Automatic,Available in 6 colors,Supernova Copper (#ca7f6a); Daytona Grey (#373739); Tornado Blue (#293b7e); Ocean Blue (#679195); Arizona Blue (#293b7e); Pristine White (#dcdddf),N/A
+Tata,Tiago XTA,₹7.76 L,Petrol,Automatic,Available in 5 colors,Ocean Blue (#679195); Supernova Copper (#ca7f6a); Arizona Blue (#293b7e); Daytona Grey (#373739); Pristine White (#dcdddf),N/A
+Tata,Tiago XZ,₹7.87 L,Petrol,Manual,Available in 6 colors,Tornado Blue (#293b7e); Ocean Blue (#679195); Supernova Copper (#ca7f6a); Arizona Blue (#293b7e); Daytona Grey (#373739); Pristine White (#dcdddf),N/A
+Tata,Tiago XZ Plus,₹8.31 L,Petrol,Manual,Available in 6 colors,"Ocean Blue With Black Roof (#679195, #000000); Pristine White With Black Roof (#dcdddf, #000000); Tornado Blue (#293b7e); Supernova Copper (#ca7f6a); Arizona Blue (#293b7e); Daytona Grey (#373739)",N/A
+Tata,Tiago XZA,₹8.48 L,Petrol,Automatic,Available in 6 colors,Tornado Blue (#293b7e); Ocean Blue (#679195); Supernova Copper (#ca7f6a); Arizona Blue (#293b7e); Daytona Grey (#373739); Pristine White (#dcdddf),N/A
+Tata,Altroz 1.2 Smart,₹7.85 L,Petrol,Manual,Available in 5 colors,Pristine White (#e6e6e6); Pure Grey (#8d8b8c); Ember Glow (#be3c20); Royal Blue (#0f173c); Dune Glow (#9d9080),N/A
+Tata,Altroz 1.2 Pure,₹8.73 L,Petrol,Manual,Available in 5 colors,Pristine White (#e6e6e6); Pure Grey (#8d8b8c); Ember Glow (#be3c20); Royal Blue (#0f173c); Dune Glow (#9d9080),N/A
+Tata,Altroz 1.2 Smart CNG,₹8.97 L,CNG,Manual,Available in 5 colors,Pristine White (#e6e6e6); Pure Grey (#8d8b8c); Ember Glow (#be3c20); Royal Blue (#0f173c); Dune Glow (#9d9080),N/A
+Tata,Altroz 1.2 Pure CNG,₹9.96 L,CNG,Manual,Available in 5 colors,Pristine White (#e6e6e6); Royal Blue (#0f173c); Pure Grey (#8d8b8c); Ember Glow (#be3c20); Dune Glow (#9d9080),N/A
+Tata,Altroz 1.2 Creative S CNG,₹11.29 L,CNG,Manual,Available in 5 colors,Pristine White (#e6e6e6); Pure Grey (#8d8b8c); Ember Glow (#be3c20); Royal Blue (#0f173c); Dune Glow (#9d9080),N/A
+Tata,Altroz 1.2 Accomplished S CNG,₹12.93 L,CNG,Manual,Available in 5 colors,Pristine White (#e6e6e6); Pure Grey (#8d8b8c); Ember Glow (#be3c20); Royal Blue (#0f173c); Dune Glow (#9d9080),N/A
+Tata,Altroz 1.2 Pure S,₹9.13 L,Petrol,Manual,Available in 5 colors,Pure Grey (#8d8b8c); Ember Glow (#be3c20); Royal Blue (#0f173c); Pristine White (#e6e6e6); Dune Glow (#9d9080),N/A
+Tata,Altroz 1.2 Pure AMT,₹9.39 L,Petrol,Automatic,Available in 5 colors,Pure Grey (#8d8b8c); Ember Glow (#be3c20); Royal Blue (#0f173c); Pristine White (#e6e6e6); Dune Glow (#9d9080),N/A
+Tata,Altroz 1.2 Pure S AMT,₹9.79 L,Petrol,Automatic,Available in 5 colors,Pure Grey (#8d8b8c); Ember Glow (#be3c20); Royal Blue (#0f173c); Pristine White (#e6e6e6); Dune Glow (#9d9080),N/A
+Tata,Altroz 1.2 Creative,₹9.83 L,Petrol,Manual,Available in 5 colors,Pure Grey (#8d8b8c); Ember Glow (#be3c20); Royal Blue (#0f173c); Pristine White (#e6e6e6); Dune Glow (#9d9080),N/A
+Tata,Altroz 1.2 Creative S,₹10.23 L,Petrol,Manual,Available in 5 colors,Pure Grey (#8d8b8c); Ember Glow (#be3c20); Royal Blue (#0f173c); Pristine White (#e6e6e6); Dune Glow (#9d9080),N/A
+Tata,Altroz 1.5 Pure Diesel,₹10.32 L,Diesel,Manual,Available in 5 colors,Pure Grey (#8d8b8c); Ember Glow (#be3c20); Royal Blue (#0f173c); Pristine White (#e6e6e6); Dune Glow (#9d9080),N/A
+Tata,Altroz 1.2 Pure S CNG,₹10.35 L,CNG,Manual,Available in 5 colors,Pure Grey (#8d8b8c); Ember Glow (#be3c20); Royal Blue (#0f173c); Pristine White (#e6e6e6); Dune Glow (#9d9080),N/A
+Tata,Altroz 1.2 Creative AMT,₹10.49 L,Petrol,Automatic,Available in 5 colors,Pure Grey (#8d8b8c); Ember Glow (#be3c20); Royal Blue (#0f173c); Pristine White (#e6e6e6); Dune Glow (#9d9080),N/A
+Tata,Altroz 1.2 Creative S AMT,₹10.89 L,Petrol,Automatic,Available in 5 colors,Pure Grey (#8d8b8c); Ember Glow (#be3c20); Royal Blue (#0f173c); Pristine White (#e6e6e6); Dune Glow (#9d9080),N/A
+Tata,Altroz 1.2 Creative CNG,₹11.06 L,CNG,Manual,Available in 5 colors,Pure Grey (#8d8b8c); Ember Glow (#be3c20); Royal Blue (#0f173c); Pristine White (#e6e6e6); Dune Glow (#9d9080),N/A
+Tata,Altroz 1.2 Accomplished S,₹11.26 L,Petrol,Manual,Available in 5 colors,Pure Grey (#8d8b8c); Ember Glow (#be3c20); Royal Blue (#0f173c); Pristine White (#e6e6e6); Dune Glow (#9d9080),N/A
+Tata,Altroz 1.2 Creative S DCA,₹12.02 L,Petrol,Automatic,Available in 5 colors,Pure Grey (#8d8b8c); Ember Glow (#be3c20); Royal Blue (#0f173c); Pristine White (#e6e6e6); Dune Glow (#9d9080),N/A
+Tata,Altroz 1.5 Creative S Diesel,₹12.33 L,Diesel,Manual,Available in 5 colors,Pure Grey (#8d8b8c); Ember Glow (#be3c20); Royal Blue (#0f173c); Pristine White (#e6e6e6); Dune Glow (#9d9080),N/A
+Tata,Altroz 1.2 Accomplished S DCA,₹13.09 L,Petrol,Automatic,Available in 5 colors,Pure Grey (#8d8b8c); Ember Glow (#be3c20); Royal Blue (#0f173c); Pristine White (#e6e6e6); Dune Glow (#9d9080),N/A
+Tata,Altroz 1.2 Accomplished Plus S DCA,₹13.38 L,Petrol,Automatic,Available in 5 colors,Pure Grey (#8d8b8c); Ember Glow (#be3c20); Royal Blue (#0f173c); Pristine White (#e6e6e6); Dune Glow (#9d9080),N/A
+Tata,Altroz 1.5 Accomplished S Diesel,₹13.43 L,Diesel,Manual,Available in 5 colors,Pure Grey (#8d8b8c); Ember Glow (#be3c20); Royal Blue (#0f173c); Pristine White (#e6e6e6); Dune Glow (#9d9080),N/A
+Tata,Harrier EV Adventure 65 ACFC,₹23.16 L,Electric,Automatic,Available in 2 colors,Pristine White (#f4f4f4); Pure Grey (#909091),N/A
+Tata,Harrier EV Adventure S 65 ACFC,₹23.68 L,Electric,Automatic,Available in 2 colors,Pristine White (#f4f4f4); Pure Grey (#909091),N/A
+Tata,Harrier EV Fearless Plus 65 ACFC,₹25.75 L,Electric,Automatic,Available in 2 colors,Pristine White (#f4f4f4); Pure Grey (#909091),N/A
+Tata,Harrier EV Fearless Plus 75 ACFC,₹26.79 L,Electric,Automatic,Available in 2 colors,Pristine White (#f4f4f4); Pure Grey (#909091),N/A
+Tata,Harrier EV Empowered 75 ACFC,₹29.37 L,Electric,Automatic,Available in 4 colors,Empowered Oxide (#c7c9bf); Nainital Nocturne (#0f182d); Pristine White (#f4f4f4); Pure Grey (#909091),N/A
+Tata,Harrier EV Empowered ST 75 ACFC,₹30.15 L,Electric,Automatic,Available in 4 colors,Empowered Oxide (#c7c9bf); Nainital Nocturne (#0f182d); Pristine White (#f4f4f4); Pure Grey (#909091),N/A
+Tata,Harrier EV Empowered AWD 75 ACFC,₹30.93 L,Electric,Automatic,Available in 4 colors,Empowered Oxide (#c7c9bf); Nainital Nocturne (#0f182d); Pristine White (#f4f4f4); Pure Grey (#909091),N/A
+Tata,Harrier EV Empowered AWD ST 75 ACFC,₹31.70 L,Electric,Automatic,Available in 4 colors,Empowered Oxide (#c7c9bf); Nainital Nocturne (#0f182d); Pristine White (#f4f4f4); Pure Grey (#909091),N/A
+Tata,Harrier EV Adventure 65,₹22.66 L,Electric,Automatic,Available in 2 colors,Pristine White (#f4f4f4); Pure Grey (#909091),N/A
+Tata,Harrier EV Adventure S 65,₹23.17 L,Electric,Automatic,Available in 2 colors,Pristine White (#f4f4f4); Pure Grey (#909091),N/A
+Tata,Harrier EV Fearless Plus 65,₹25.24 L,Electric,Automatic,Available in 2 colors,Pristine White (#f4f4f4); Pure Grey (#909091),N/A
+Tata,Harrier EV Fearless Plus 75,₹26.28 L,Electric,Automatic,Available in 2 colors,Pristine White (#f4f4f4); Pure Grey (#909091),N/A
+Tata,Harrier EV Empowered 75,₹28.87 L,Electric,Automatic,Available in 4 colors,Empowered Oxide (#c7c9bf); Nainital Nocturne (#0f182d); Pristine White (#f4f4f4); Pure Grey (#909091),N/A
+Tata,Harrier EV Empowered ST 75,₹29.64 L,Electric,Automatic,Available in 4 colors,Empowered Oxide (#c7c9bf); Nainital Nocturne (#0f182d); Pristine White (#f4f4f4); Pure Grey (#909091),N/A
+Tata,Harrier EV Empowered AWD 75,₹30.42 L,Electric,Automatic,Available in 4 colors,Empowered Oxide (#c7c9bf); Nainital Nocturne (#0f182d); Pristine White (#f4f4f4); Pure Grey (#909091),N/A
+Tata,Harrier EV Empowered AWD ST 75,₹31.19 L,Electric,Automatic,Available in 4 colors,Empowered Oxide (#c7c9bf); Nainital Nocturne (#0f182d); Pristine White (#f4f4f4); Pure Grey (#909091),N/A
+Tata,Harrier (2020-2023) 2.0 XE,N/A,Diesel,Manual,Available in 1 colors,Orcus White (#d9dade),N/A
+Tata,Harrier (2020-2023) 2.0 XTA+,N/A,Diesel,Automatic,Available in 5 colors,Daytona Grey (#626d78); Calypso Red (#b01214); Orcus White (#d9dade); Tropical Mist (#6b8ea2); Royale Blue (#003670),N/A
+Tata,Harrier (2020-2023) 2.0 XM,N/A,Diesel,Manual,Available in 4 colors,Daytona Grey (#626d78); Orcus White (#d9dade); Calypso Red (#b01214); Sparkle Cocoa (#6c6962),N/A
+Tata,Harrier (2020-2023) 2.0 XZ+,N/A,Diesel,Manual,Available in 10 colors,"Daytona Grey (#626d78); Daytona Grey + Black	 (#626d78, #151718	); Calypso Red + Black	 (#b01214, #151718	); Royale Blue (#003670); Tropical Mist with Black Roof (#6b8ea2, #151718); Calypso Red (#b01214); Orcus White (#d9dade); Orcus White + Black	 (#d9dade, #151718	); Sparkle Cocoa + Black	 (#6c6962, #151718	); Sparkle Cocoa (#6c6962)",N/A
+Tata,Harrier (2020-2023) 2.0 XTA+ Dark Edition,N/A,Diesel,Automatic,Available in 1 colors,Atlas Black (#151718),N/A
+Tata,Harrier (2020-2023) 2.0 XZA,N/A,Diesel,Automatic,Available in 8 colors,"Daytona Grey (#626d78); Daytona Grey + Black	 (#626d78, #151718	); Orcus White (#d9dade); Calypso Red + Black	 (#b01214, #151718	); Orcus White + Black	 (#d9dade, #151718	); Calypso Red (#b01214); Sparkle Cocoa (#6c6962); Sparkle Cocoa + Black	 (#6c6962, #151718	)",N/A
+Tata,Harrier (2020-2023) 2.0 XZ,N/A,Diesel,Manual,Available in 8 colors,"Daytona Grey (#626d78); Daytona Grey + Black (#626d78, #151718); Orcus White + Black (#d9dade, #151718); Orcus White (#d9dade); Calypso Red (#b01214); Calypso Red + Black (#b01214, #151718); Sparkle Cocoa + Black (#6c6962, #151718); Sparkle Cocoa (#6c6962)",N/A
+Tata,Harrier (2020-2023) 2.0 XZ+ Dark Edition,N/A,Diesel,Manual,Available in 1 colors,Atlas Black (#151718),N/A
+Tata,Harrier (2020-2023) 2.0 XZA Camo,N/A,Diesel,Automatic,Available in 1 colors,Majesto Camo Green (#374339),N/A
+Tata,Harrier (2020-2023) 2.0 XZS,N/A,Diesel,Manual,Available in 7 colors,"Royale Blue (#003670); Calypso Red (#b01214); Orcus White (#d9dade); Daytona Grey (#626d78); Orcus White with Black Roof (#d9dade, #151718); Calypso Red with Black Roof (#b01214, #151718); Tropical Mist with Black Roof (#6b8ea2, #151718)",N/A
+Tata,Harrier (2020-2023) 2.0 XZ+ Kaziranga,N/A,Diesel,Manual,Available in 1 colors,"Grassland Beige with Piano Black Roof (#625d47, #232b32)",N/A
+Tata,Harrier (2020-2023) 2.0 XMA,N/A,Diesel,Automatic,Available in 4 colors,Daytona Grey (#626d78); Calypso Red (#b01214); Orcus White (#d9dade); Sparkle Cocoa (#6c6962),N/A
+Tata,Harrier (2020-2023) 2.0 XZA+ Dark Edition,N/A,Diesel,Automatic,Available in 1 colors,Atlas Black (#151718),N/A
+Tata,Harrier (2020-2023) 2.0 XZAS Dark Edition,N/A,Diesel,Automatic,Available in 1 colors,Oberon Black (#151718),N/A
+Tata,Harrier (2020-2023) 2.0 XT+ Camo,N/A,Diesel,Manual,Available in 1 colors,Majesto Camo Green (#374339),N/A
+Tata,Harrier (2020-2023) 2.0 XT + Dark Edition,N/A,Diesel,Manual,Available in 1 colors,Atlas Black (#151718),N/A
+Tata,Harrier (2020-2023) 2.0 XZS Dark Edition,N/A,Diesel,Manual,Available in 1 colors,Oberon Black (#151718),N/A
+Tata,Harrier (2020-2023) 2.0 XMS,N/A,Diesel,Manual,Available in 4 colors,Calypso Red (#b01214); Orcus White (#d9dade); Telesto Grey (#626d78); Sparkle Cocoa (#6c6962),N/A
+Tata,Harrier (2020-2023) 2.0 XT Dark Edition,N/A,Diesel,Manual,Available in 1 colors,Atlas Black (#151718),N/A
+Tata,Harrier (2020-2023) 2.0 XZAS,N/A,Diesel,Automatic,Available in 7 colors,"Royale Blue (#003670); Calypso Red (#b01214); Orcus White (#d9dade); Daytona Grey (#626d78); Calypso Red with Black Roof (#b01214, #151718); Tropical Mist with Black Roof (#6b8ea2, #151718); Orcus White with Black Roof (#d9dade, #151718)",N/A
+Tata,Harrier (2020-2023) 2.0 XT,N/A,Diesel,Manual,Available in 4 colors,Daytona Grey (#626d78); Orcus White (#d9dade); Calypso Red (#b01214); Sparkle Cocoa (#6c6962),N/A
+Tata,Harrier (2020-2023) 2.0 XZ Camo,N/A,Diesel,Manual,Available in 1 colors,Majesto Camo Green (#374339),N/A
+Tata,Harrier (2020-2023) 2.0 XZA+ Camo,N/A,Diesel,Automatic,Available in 1 colors,Majesto Camo Green (#374339),N/A
+Tata,Harrier (2020-2023) 2.0 XZ+ Camo,N/A,Diesel,Manual,Available in 1 colors,Majesto Camo Green (#374339),N/A
+Tata,Harrier (2020-2023) 2.0 XT +,N/A,Diesel,Manual,Available in 6 colors,Daytona Grey (#626d7); Tropical Mist (#6b8ea2); Royale Blue (#003670); Sparkle Cocoa (#6c6962); Orcus White (#d9dade); Calypso Red (#b01214),N/A
+Tata,Harrier (2020-2023) 2.0 XZ Dark Edition,N/A,Diesel,Manual,Available in 1 colors,Atlas Black (#151718),N/A
+Tata,Harrier (2020-2023) 2.0 XT Camo,N/A,Diesel,Manual,Available in 1 colors,Majesto Camo Green (#374339),N/A
+Tata,Harrier (2020-2023) 2.0 XMAS,N/A,Diesel,Automatic,Available in 4 colors,Orcus White (#d9dade); Calypso Red (#b01214); Telesto Grey (#626d78); Sparkle Cocoa (#6c6962),N/A
+Tata,Harrier (2020-2023) 2.0 XZA Dark Edition,N/A,Diesel,Automatic,Available in 1 colors,Atlas Black (#151718),N/A
+Tata,Harrier (2020-2023) 2.0 XZA+ Jet,N/A,Diesel,Automatic,Available in 1 colors,StarLight (#8d7458),N/A
+Tata,Harrier (2020-2023) 2.0 XZ+ Jet,N/A,Diesel,Manual,Available in 1 colors,StarLight (#8d7458),N/A
+Tata,Harrier (2020-2023) 2.0 XZA+,N/A,Diesel,Automatic,Available in 9 colors,"Daytona Grey (#626d78); Sparkle Cocoa (#6c6962); Calypso Red (#b01214); Royale Blue (#003670); Tropical Mist with Black Roof (#6b8ea2, #151718); Calypso Red + Black	 (#b01214, #151718	); Orcus White + Black	 (#d9dade, #151718	); Sparkle Cocoa + Black	 (#6c6962, #151718	); Orcus White (#d9dade)",N/A
+Tata,Harrier (2020-2023) 2.0 XZA+ Kaziranga,N/A,Diesel,Automatic,Available in 1 colors,"Grassland Beige with Piano Black Roof (#625d47, #232b32)",N/A
+Tata,Nexon EV Max (2022-2023) XZ Plus 7.2 KW FC,N/A,Electric,Automatic,Available in 3 colors,"Intensi Teal with Gray Roof (#00486e, #576b78); Pristine White with Gray Roof (#f8f4f2, #576b78); Daytona Grey With White Roof (#576b78, #f8f4f2)",N/A
+Tata,Nexon EV Max (2022-2023) XM 3.3 KW,N/A,Electric,Automatic,Available in 3 colors,Intensi-Teal (#00486e); Daytona Grey (#576b78); Pristine White (#f8f4f2),N/A
+Tata,Nexon EV Max (2022-2023) XZ Plus Lux 7.2 KW FC,N/A,Electric,Automatic,Available in 3 colors,"Intensi Teal with Gray Roof (#00486e, #576b78); Daytona Grey With White Roof (#576b78, #f8f4f2); Pristine White with Gray Roof (#f8f4f2, #576b78)",N/A
+Tata,Nexon EV Max (2022-2023) XZ Plus Lux 7.2 KW FC Dark Edition,N/A,Electric,Automatic,Available in 1 colors,Black (#181d20),N/A
+Tata,Nexon EV Max (2022-2023) XZ Plus Lux 3.3 KW,N/A,Electric,Automatic,Available in 3 colors,"Intensi Teal with Gray Roof (#00486e, #576b78); Pristine White with Gray Roof (#f8f4f2, #576b78); Daytona Grey With White Roof (#576b78, #f8f4f2)",N/A
+Tata,Nexon EV Max (2022-2023) XZ Plus 3.3 KW,N/A,Electric,Automatic,Available in 3 colors,"Intensi Teal with Gray Roof (#00486e, #576b78); Pristine White with Gray Roof (#f8f4f2, #576b78); Daytona Grey With White Roof (#576b78, #f8f4f2)",N/A
+Tata,Nexon EV Max (2022-2023) XM 7.2 KW FC,N/A,Electric,Automatic,Available in 3 colors,Intensi Teal (#00486e); Pristine White (#f8f4f2); Daytona Grey (#576b78),N/A
+Tata,Nexon EV Max (2022-2023) XZ Plus Lux 3.3 KW Dark Edition,N/A,Electric,Automatic,Available in 1 colors,Black (#181d20),N/A
+Tata,Nexon EV Max (2022-2023) XZ Plus Lux 3.3 KW Jet,N/A,Electric,Automatic,Available in 1 colors,"StarLight with Silver Roof (#8d7458, #C0C0C0)",N/A
+Tata,Nexon EV Max (2022-2023) XZ Plus Lux 7.2 KW FC Jet,N/A,Electric,Automatic,Available in 1 colors,"StarLight with Silver Roof (#8d7458, #C0C0C0)",N/A
