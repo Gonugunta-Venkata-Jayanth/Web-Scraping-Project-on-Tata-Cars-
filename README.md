@@ -67,7 +67,7 @@ Breakdown of the scraped rows:
 | Electric | 66 | | | |
 | CNG | 41 | | | |
 
-> Prices and availability reflect the page at the time it was scraped.
+> **Snapshot date:** the CSV was added to this repository on **1 August 2025**; the exact scrape date was not recorded, so treat it as a snapshot from on or shortly before that date. Prices, variants and colours on the live site have likely changed since. Re-run the notebook for current data.
 
 ## Tech Stack
 
@@ -83,8 +83,8 @@ Breakdown of the scraped rows:
 ```
 Web-Scraping-Project-on-Tata-Cars-/
 ├── Web_Scraping_Script_for_Car_Details.ipynb  # Scraper notebook
-├── scraped_tata_cars_with_colors.csv          # Scraped dataset (340 rows)
-├── Web Scraping Basics.pdf                    # Reference notes: scraping fundamentals
+├── scraped_tata_cars_with_colors.csv          # Scraped dataset (340 rows, snapshot of Aug 2025)
+├── requirements.txt
 └── README.md
 ```
 
@@ -93,7 +93,7 @@ Web-Scraping-Project-on-Tata-Cars-/
 ```bash
 git clone https://github.com/Gonugunta-Venkata-Jayanth/Web-Scraping-Project-on-Tata-Cars-.git
 cd Web-Scraping-Project-on-Tata-Cars-
-pip install requests beautifulsoup4 pandas jupyter
+pip install -r requirements.txt
 jupyter notebook Web_Scraping_Script_for_Car_Details.ipynb
 ```
 
